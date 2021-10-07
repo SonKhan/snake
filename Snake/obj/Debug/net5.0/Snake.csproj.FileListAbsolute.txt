@@ -1,0 +1,16 @@
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\obj\Debug\net5.0\Snake.csproj.AssemblyReference.cache
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\obj\Debug\net5.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfoInputs.cache
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfo.cs
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\obj\Debug\net5.0\Snake.csproj.CoreCompileInputs.cache
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\bin\Debug\net5.0\Snake.exe
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\bin\Debug\net5.0\Snake.deps.json
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.json
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.dev.json
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\bin\Debug\net5.0\Snake.dll
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\bin\Debug\net5.0\ref\Snake.dll
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\bin\Debug\net5.0\Snake.pdb
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\obj\Debug\net5.0\Snake.dll
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\obj\Debug\net5.0\ref\Snake.dll
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\obj\Debug\net5.0\Snake.pdb
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\snake\Snake\obj\Debug\net5.0\Snake.genruntimeconfig.cache
