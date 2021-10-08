@@ -1,0 +1,7 @@
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\Git\snake-lesson-12-SnakeEat\Snake\Snake\bin\Debug\Snake.exe.config
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\Git\snake-lesson-12-SnakeEat\Snake\Snake\bin\Debug\Snake.exe
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\Git\snake-lesson-12-SnakeEat\Snake\Snake\bin\Debug\Snake.pdb
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\Git\snake-lesson-12-SnakeEat\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\Git\snake-lesson-12-SnakeEat\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\Git\snake-lesson-12-SnakeEat\Snake\Snake\obj\Debug\Snake.exe
+D:\НЕ УДАЛЯТЬ\ПРОГРАМУВАННЯ\Git\snake-lesson-12-SnakeEat\Snake\Snake\obj\Debug\Snake.pdb
